@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).exe
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).deps.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).runtimeconfig.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).runtimeconfig.dev.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\bin\Debug\netcoreapp3.0\9lab(4example).pdb
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\obj\Debug\netcoreapp3.0\9lab(4example).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\obj\Debug\netcoreapp3.0\9lab(4example).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\obj\Debug\netcoreapp3.0\9lab(4example).AssemblyInfo.cs
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\obj\Debug\netcoreapp3.0\9lab(4example).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(4example)\obj\Debug\netcoreapp3.0\9lab(4example).pdb

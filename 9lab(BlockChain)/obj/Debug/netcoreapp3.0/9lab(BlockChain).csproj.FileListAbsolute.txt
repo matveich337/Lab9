@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).exe
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).deps.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).runtimeconfig.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).runtimeconfig.dev.json
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\bin\Debug\netcoreapp3.0\9lab(BlockChain).pdb
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\obj\Debug\netcoreapp3.0\9lab(BlockChain).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\obj\Debug\netcoreapp3.0\9lab(BlockChain).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\obj\Debug\netcoreapp3.0\9lab(BlockChain).AssemblyInfo.cs
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\obj\Debug\netcoreapp3.0\9lab(BlockChain).dll
+C:\Users\User\Desktop\Uniq\МоскаленкоЛабы\9lab(BlockChain)\obj\Debug\netcoreapp3.0\9lab(BlockChain).pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "9lab(5example)/1.0.0": {
+        "runtime": {
+          "9lab(5example).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9lab(5example)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
